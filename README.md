@@ -1,4 +1,4 @@
 # A-DOM-Pig-Game
 Watch live ->  https://devmonzer.github.io/DOM-Pig-Game/.
 
-<img src="https://www.simpleimageresizer.com/_uploads/photos/fa4cb910/Capture_1_640x320.jpg" />
+<a href="https://ibb.co/0j7M7k3"><img src="https://i.ibb.co/hR6W6kv/Capture.jpg" alt="Capture" border="0"></a>
